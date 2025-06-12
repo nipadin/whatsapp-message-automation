@@ -28,14 +28,14 @@ This tool imports an Excel file, filters and formats the relevant data, and auto
 
 ## Capturas de pantalla / Screenshots
 
-![interfaz](image.png)  
-![explorador de archivos -> seleccionar Excel](image-1.png)  
-![agenda - crear, modificar o eliminar contactos](image-2.png)  
-![no se encuentran visitas en las próximas 48 hs](image-3.png)  
-![error - no hay contactos cargados en la agenda](image-4.png)  
-![agregar contacto](image-5.png)  
-![contacto agregado exitosamente](image-6.png)  
-![envío de mensajes automáticos en un nuevo perfil de Chrome](image-7.png)
+![interfaz](imagenes/image.png)  
+![explorador de archivos -> seleccionar Excel](imagenes/image-1.png)  
+![agenda - crear, modificar o eliminar contactos](imagenes/image-2.png)  
+![no se encuentran visitas en las próximas 48 hs](imagenes/image-3.png)  
+![error - no hay contactos cargados en la agenda](imagenes/image-4.png)  
+![agregar contacto](imagenes/image-5.png)  
+![contacto agregado exitosamente](imagenes/image-6.png)  
+![envío de mensajes automáticos en un nuevo perfil de Chrome](imagenes/image-7.png)
 
 ---
 
