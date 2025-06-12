@@ -192,3 +192,27 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+=======
+# Entornos virtuales
+mw/
+.env/
+venv/
+env/
+
+# Perfil de Chrome
+chromeWapp/
+
+# Driver local
+drivers/
+
+# Bytecode de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales y de sistema
+*.log
+*.db
+*.xlsx
+archivo_seleccionado.txt
+
+>>>>>>> 69aa7dc (Commit inicial: proyecto limpio con .gitignore configurado)
